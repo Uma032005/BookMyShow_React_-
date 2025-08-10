@@ -49,5 +49,5 @@ npm start     # If using CRA
 This project is licensed under the MIT License.
 
 💡 Author
-Developed by [Your Name].
+Developed by [UMAMAGESHWARI K].
 If you like this project, please ⭐ it on GitHub!
